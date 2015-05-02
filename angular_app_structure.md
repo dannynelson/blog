@@ -1,3 +1,5 @@
+# Rethinking AngularJS App Structure
+
 AngularJS is a fantastic framework for rapidly developing web applications. After using Angular for my last 3 projects, I noticed a drastic improvement in my productivity.
 
 However, I have noticed a lot of disagreement in the developer community about how to structure Angular applications. If you compare several of the largest Angular boilerplates, you'll see that each of them has a significantly different app structure:

@@ -1,6 +1,8 @@
+# How to Write Sublime Text Snippets
+
 Snippets are a fantastic way to speed up your workflow in Sublime. They allow you to flesh out a lot of boilerplate code with just a few keystrokes.
 
-{<1>}![Snippet Example](/content/images/2014/Jan/snippet_example.png)
+![Snippet Example](/images/snippet_example.png)
 
 Sublime Text 2 comes with many great snippets preinstalled. But it's easy to create more if you can't find the one you're looking for.
 
@@ -8,11 +10,11 @@ Sublime Text 2 comes with many great snippets preinstalled. But it's easy to cre
 
 Within the tools menu, click "New Snippet".
 
-{<2>}![open a new snippet](/content/images/2014/Jan/open_snippet.png)
+![open a new snippet](/images/open_snippet.png)
 
 This will bring up a page that looks something like this...
 
-{<3>}![Edit snippet](/content/images/2014/Jan/empty_snippet.png)
+![Edit snippet](/images/empty_snippet.png)
 
 ##Edit your snippet
 
@@ -24,13 +26,13 @@ As an example, `${2:snippet}` will be editted second, and has a default text of 
 
 If I wanted to make a snippet for a jasmine describe block, it might look something like this:
 
-{<4>}![Describe Snippet](/content/images/2014/Jan/Screen_Shot_2014_01_15_at_12_50_54_AM.png)
+![Describe Snippet](/images/Screen_Shot_2014_01_15_at_12_50_54_AM.png)
 
 ## Set tabTrigger and Scope
 
 You can uncomment the tabTrigger and scope sections.
 
-{<5>}![Uncomment tab trigger](/content/images/2014/Jan/Screen_Shot_2014_01_15_at_12_58_37_AM.png)
+![Uncomment tab trigger](/images/Screen_Shot_2014_01_15_at_12_58_37_AM.png)
 
 Tab trigger is the default text that shows up when you start typing your snippet.
 
@@ -39,7 +41,7 @@ And scope determines which types of files to activate the snippet on. For instan
 ## Save your Snippet
 Finally, save your snippet with **cmd-s**. Be sure to save it with a **.sublim-snippet** extension within the **Packages/User** directory of your Sublime installation.
 
-{<6>}![Save](/content/images/2014/Jan/Screen_Shot_2014_01_15_at_1_07_41_AM.png)
+![Save](/images/Screen_Shot_2014_01_15_at_1_07_41_AM.png)
 
 You could also save it within a sub-directory of your /User folder if you want to keep all your snippets organized.
 

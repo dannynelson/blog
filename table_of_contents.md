@@ -1,3 +1,5 @@
+# Creating a Table of Contents in Ghost with Markdown
+
 A table of contents is very helpful for organizing a long blog post into sections. Turns out, it's really easy to do this in markdown with the Ghost blogging platform. Here's an example...
 
 1. [Linking to a Section within a Page](#linkingtoasectionwithinapage)
